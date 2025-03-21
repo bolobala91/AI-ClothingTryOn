@@ -2,7 +2,7 @@
 
 Ứng dụng desktop Python sử dụng trí tuệ nhân tạo Google Gemini để tạo ảnh thử đồ ảo. Phần mềm cho phép người dùng tải lên ảnh của người và quần áo riêng biệt, sau đó tạo ra các hình ảnh tổng hợp chân thực thể hiện cách người đó sẽ trông như thế nào khi mặc trang phục đã chọn.
 
-![AI-ClothingTryOn Screenshot](screenshots/app_screenshot.png)
+![AI-ClothingTryOn Screenshot](app_screenshot.png)
 
  Tính năng
 
