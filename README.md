@@ -24,8 +24,8 @@
  Phương pháp 1: Sử dụng file EXE (Khuyến nghị cho người dùng)
 
 
-1. Tải [file EXE từ Google Drive](https://mega.nz/file/wcQwEBzT#pANbyvTWV2ysrmjdusolqT3TI4ElRjZoxGfrOeZ6llc)
-2. 1. Tải [file ZIP nếu trình duyệt không cho tải Exe ](https://mega.nz/file/pYpkQbzJ#exFxB7T2QhQFbMUzza1xx_KeAajMreSy3MdBgZOKuQM)
+
+2.Tải [file ZIP nếu trình duyệt không cho tải Exe ](https://mega.nz/file/pYpkQbzJ#exFxB7T2QhQFbMUzza1xx_KeAajMreSy3MdBgZOKuQM)
 3. Giải nén file và chạy `AI-ClothingTryOn.exe`
 4. Nhập Google Gemini API key khi được yêu cầu
 
